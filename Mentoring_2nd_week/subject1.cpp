@@ -1,10 +1,8 @@
 //#include <stdio.h>
 //
-//int n1;
-//
 //int main() {
 //
-//	int n1; 
+//	int n1;
 //
 //	scanf_s("%d", &n1);
 //
