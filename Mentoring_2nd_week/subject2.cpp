@@ -23,6 +23,10 @@
 //		for (int i = 1; i <= t; i++) {
 //			int n = 0; int playerA = 0; int playerB = 0;
 //			scanf("%d", &n);
+//			if (n > 0 && n < 100 == 0) {
+//				printf("OUT OF RANGE");
+//				return 0;
+//			}
 //			// printf("รั ม๘วเวา ฦว  : %d\n", n);
 //			for (int k = 1; k <= n; k++) {
 //
